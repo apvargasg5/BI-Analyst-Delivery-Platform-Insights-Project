@@ -1,4 +1,4 @@
-# BI-Analyst-Delivery-Platform-Insights-Project
+# BI-Analysis-Delivery-Platform-Insights-Project
 Project Overview: As a Senior Business Intelligence Analyst, I was tasked with analyzing a dataset related to individual deliveries completed on a delivery platform over a specific period. 
 The goal was to surface valuable insights that would aid senior leadership in making informed business decisions. This project focused on understanding key business metrics and trends,
 identifying potential opportunities for optimization, and generating actionable insights for strategic decision-making.
